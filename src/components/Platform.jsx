@@ -1,9 +1,9 @@
 
 
 import images from '../assets/image.png';
-import line from '../assets/line6.png';
-import line9 from '../assets/line9.png';
-import line12 from '../assets/line12.png';
+import line from '../assets/Line6.png';
+import line9 from '../assets/Line9.png';
+import line12 from '../assets/Line12.png';
 
 function Platform() {
   return (
